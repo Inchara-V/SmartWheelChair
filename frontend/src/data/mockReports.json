@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "placeName": "Green Park Metro Station",
+    "status": "partial",
+    "features": { "ramp": true, "elevator": true, "accessibleWashroom": false },
+    "description": "Elevator on Platform 2 was out of service.",
+    "submittedAt": "2026-06-10T14:30:00Z",
+    "resolved": false
+  },
+  {
+    "id": 2,
+    "placeName": "Riverside Café",
+    "status": "partial",
+    "features": { "ramp": true, "elevator": false, "accessibleWashroom": true },
+    "description": "Ramp slope seems steeper than recommended.",
+    "submittedAt": "2026-06-08T09:15:00Z",
+    "resolved": true
+  },
+  {
+    "id": 3,
+    "placeName": "Heritage Museum",
+    "status": "not_accessible",
+    "features": { "ramp": false, "elevator": false, "accessibleWashroom": true },
+    "description": "Main entrance has 5 steps with no ramp alternative.",
+    "submittedAt": "2026-06-05T16:45:00Z",
+    "resolved": false
+  },
+  {
+    "id": 4,
+    "placeName": "Central Community Library",
+    "status": "accessible",
+    "features": { "ramp": true, "elevator": true, "accessibleWashroom": true },
+    "description": "New automatic doors installed — much easier access now.",
+    "submittedAt": "2026-06-01T11:00:00Z",
+    "resolved": true
+  },
+  {
+    "id": 5,
+    "placeName": "Sunrise Shopping Mall",
+    "status": "accessible",
+    "features": { "ramp": true, "elevator": true, "accessibleWashroom": true },
+    "description": "Accessible parking spots were blocked by delivery trucks.",
+    "submittedAt": "2026-05-28T08:20:00Z",
+    "resolved": false
+  }
+]

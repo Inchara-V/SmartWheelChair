@@ -1,0 +1,14 @@
+{
+  "totalPlaces": 1247,
+  "accessiblePlaces": 892,
+  "partialPlaces": 245,
+  "notAccessiblePlaces": 110,
+  "totalReports": 356,
+  "resolvedReports": 278,
+  "averageScore": 78,
+  "accessibilityDistribution": [
+    { "name": "Accessible", "value": 892, "color": "#10b981" },
+    { "name": "Partial", "value": 245, "color": "#f59e0b" },
+    { "name": "Not Accessible", "value": 110, "color": "#ef4444" }
+  ]
+}
